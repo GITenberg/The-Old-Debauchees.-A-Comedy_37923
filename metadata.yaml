@@ -1,0 +1,33 @@
+_repo: The-Old-Debauchees.-A-Comedy_37923
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fielding, Henry
+    aliases:
+    - Keyber, Conny
+    - Gualterus, Petrus
+    - Trottplaid, John
+    - Drawcansir, Alexander, Sir
+    - Vinegar, Hercules
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
+description: ''
+gutenberg_issued: '2011-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama -- 18th century'
+title: The Old Debauchees. A Comedy
+url: http://www.gutenberg.org/ebooks/37923
