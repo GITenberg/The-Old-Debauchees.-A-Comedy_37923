@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/537
     wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37923#The-Old-Debauchees.-A-Comedy
 gutenberg_issued: '2011-11-04'
 gutenberg_type: Text
 identifiers:
